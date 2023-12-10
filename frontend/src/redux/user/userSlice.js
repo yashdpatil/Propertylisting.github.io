@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-
+ ///reducers
 const initialState = {
   currentUser: null,
   error: null,

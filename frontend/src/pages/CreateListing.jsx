@@ -26,7 +26,7 @@ export default function CreateListing() {
     offer: false,
     parking: false,
     furnished: false,
-  });
+  }); //reducer
   const [imageUploadError, setImageUploadError] = useState(false);
   const [uploading, setUploading] = useState(false);
   const [error, setError] = useState(false);
