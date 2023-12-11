@@ -33,7 +33,7 @@ export default function Header() {
         <Link to="/">
           <h1 className="font-bold text-sm sm:text-xl flex flex-wrap items-center">
             <FaBuilding className="text-indigo-200" />
-            <span className="text-indigo-500">Proprty </span>
+            <span className="text-indigo-500">Property </span>
             <span className="text-indigo-700"> Listing</span>
           </h1>
         </Link>

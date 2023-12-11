@@ -87,22 +87,22 @@ export default function About() {
     <p class="mb-1 ">Yash Narvekar</p>
     <p class="mb-1">
     Email:
-    <a href="#" class="font-semibold underline">yashpatil1711@gmail.com</a>
+    <a href="#" class="font-semibold underline">yashnarvek@gmail.com</a>
   </p>
   <p class="mb-1">
   Phone:
-  <a href="#" class="font-semibold underline">+91 9552184742</a>
+  <a href="#" class="font-semibold underline">+91 9145081841</a>
 </p>
 
 <p class="mb-1 font-medium border-b  pb-7"></p>
 <p class="mb-1">Rishab Agarwal</p>
 <p class="mb-1">
 Email:
-<a href="#" class="font-semibold underline">yashpatil1711@gmail.com</a>
+<a href="#" class="font-semibold underline">rishabhagarwal9935@gmail.com</a>
 </p>
 <p class="mb-1">
 Phone:
-<a href="#" class="font-semibold underline">+91 9552184742</a>
+<a href="#" class="font-semibold underline">+91 9653789071 </a>
 </p>
 
 
